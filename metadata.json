@@ -1,0 +1,6 @@
+{
+  "name": "All WiFi Connection",
+  "description": "Scan, connect, and manage WiFi networks with real-time analytics, signal strength tracking, and network specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
